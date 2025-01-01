@@ -14,6 +14,7 @@ A repo to list the certificates received and trainings undergone
 
 1. Google Data Analytics
 2. Google Project Management
+3. GCP Cerified - Associate Cloud Engineer
 
 <h3> from  IBM </h3>
 
